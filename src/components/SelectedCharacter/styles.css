@@ -1,0 +1,4 @@
+.selected-character {
+  float: left;
+  width: calc(100% - 250px);
+}
